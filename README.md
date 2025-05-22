@@ -10,16 +10,16 @@ Download the ZIP archive and unpack it:
 
 ```bash
 # Download the repository archive as a ZIP file
-curl -L https://anonymous.4open.science/api/repo/Transppo-Demo/zip -o Transppo-Demo.zip
+curl -L https://anonymous.4open.science/api/repo/TransPPO/zip -o TransPPO.zip
 
 # Create a directory to hold the project
-mkdir Transppo-Demo
+mkdir TransPPO
 
 # Unzip the archive into the newly created directory
-unzip Transppo-Demo.zip -d Transppo-Demo
+unzip TransPPO.zip -d TransPPO
 
 # Change into the project directory
-cd Transppo-Demo
+cd TransPPO
 ```
 
 Create a conda environment with Python 3.10.16 and install dependencies:
