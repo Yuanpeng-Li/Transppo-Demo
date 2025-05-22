@@ -25,18 +25,18 @@ pip install -r requirements.txt
 ### Training
 To train the TransPPO model, run the following command:
 ```bash
-python train_TransPPO.py
+python main/train_TransPPO.py
 ```
 To train the SinglePPO model, run the following command:
 ```bash
-python train_SinglePPO.py
+python main/train_SinglePPO.py
 ```
 To train the MultiPPO model, run the following command:
 ```bash
-python train_MultiPPO.py
+python main/train_MultiPPO.py
 ```
 ### Logs
 To view the training logs, run the following command:
 ```bash
-tensorboard --logdir=logs/
+tensorboard --logdir=main/logs/
 ```
