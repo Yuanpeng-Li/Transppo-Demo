@@ -9,7 +9,6 @@ __pycache__/
 dist/
 build/
 .eggs/
-*.log
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -17,18 +16,14 @@ build/
 # Environment
 .env
 .venv
-env/
 venv/
-ENV/
 env.bak/
 venv.bak/
-transppo_env/
 
 # VS Code
 .vscode/
 
 # Data & Outputs
-logs/
 *.ckpt
 *.h5
 *.pth
