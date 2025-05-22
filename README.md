@@ -10,7 +10,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Transppo-Demo.git
+git clone https://anonymous.4open.science/r/Transppo-Demo/
 cd Transppo-Demo
 ```
 
